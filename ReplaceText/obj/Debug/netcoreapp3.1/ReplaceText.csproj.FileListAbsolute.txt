@@ -1,0 +1,4 @@
+C:\C# Projects\Ny mappe\ReplaceText\ReplaceText\ReplaceText\bin\Debug\netcoreapp3.1\ReplaceText.exe
+C:\C# Projects\Ny mappe\ReplaceText\ReplaceText\ReplaceText\obj\Debug\netcoreapp3.1\ReplaceText.csprojAssemblyReference.cache
+C:\C# Projects\Ny mappe\ReplaceText\ReplaceText\ReplaceText\obj\Debug\netcoreapp3.1\ReplaceText.AssemblyInfoInputs.cache
+C:\C# Projects\Ny mappe\ReplaceText\ReplaceText\ReplaceText\obj\Debug\netcoreapp3.1\ReplaceText.AssemblyInfo.cs

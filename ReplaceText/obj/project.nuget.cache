@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "j2flTwtQELohT0lU3zmZ+tDnGKGse3k9xGfhux3zB6LRS9cNu7nhp+V/QncF0BCJAVFepSEH11VF5YsoHuiY5g==",
+  "success": true,
+  "projectFilePath": "C:\\C# Projects\\Ny mappe\\ReplaceText\\ReplaceText\\ReplaceText\\ReplaceText.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\documentformat.openxml\\2.11.0\\documentformat.openxml.2.11.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
