@@ -2,3 +2,15 @@ C:\C# Projects\Ny mappe\ReplaceText\ReplaceText\ReplaceText\bin\Debug\netcoreapp
 C:\C# Projects\Ny mappe\ReplaceText\ReplaceText\ReplaceText\obj\Debug\netcoreapp3.1\ReplaceText.csprojAssemblyReference.cache
 C:\C# Projects\Ny mappe\ReplaceText\ReplaceText\ReplaceText\obj\Debug\netcoreapp3.1\ReplaceText.AssemblyInfoInputs.cache
 C:\C# Projects\Ny mappe\ReplaceText\ReplaceText\ReplaceText\obj\Debug\netcoreapp3.1\ReplaceText.AssemblyInfo.cs
+C:\C# Projects\Ny mappe\ReplaceText\ReplaceText\ReplaceText\bin\Debug\netcoreapp3.1\ReplaceText.deps.json
+C:\C# Projects\Ny mappe\ReplaceText\ReplaceText\ReplaceText\bin\Debug\netcoreapp3.1\ReplaceText.runtimeconfig.json
+C:\C# Projects\Ny mappe\ReplaceText\ReplaceText\ReplaceText\bin\Debug\netcoreapp3.1\ReplaceText.runtimeconfig.dev.json
+C:\C# Projects\Ny mappe\ReplaceText\ReplaceText\ReplaceText\bin\Debug\netcoreapp3.1\ReplaceText.dll
+C:\C# Projects\Ny mappe\ReplaceText\ReplaceText\ReplaceText\bin\Debug\netcoreapp3.1\ReplaceText.pdb
+C:\C# Projects\Ny mappe\ReplaceText\ReplaceText\ReplaceText\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\C# Projects\Ny mappe\ReplaceText\ReplaceText\ReplaceText\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\C# Projects\Ny mappe\ReplaceText\ReplaceText\ReplaceText\obj\Debug\netcoreapp3.1\ReplaceText.csproj.CoreCompileInputs.cache
+C:\C# Projects\Ny mappe\ReplaceText\ReplaceText\ReplaceText\obj\Debug\netcoreapp3.1\ReplaceText.csproj.CopyComplete
+C:\C# Projects\Ny mappe\ReplaceText\ReplaceText\ReplaceText\obj\Debug\netcoreapp3.1\ReplaceText.dll
+C:\C# Projects\Ny mappe\ReplaceText\ReplaceText\ReplaceText\obj\Debug\netcoreapp3.1\ReplaceText.pdb
+C:\C# Projects\Ny mappe\ReplaceText\ReplaceText\ReplaceText\obj\Debug\netcoreapp3.1\ReplaceText.genruntimeconfig.cache
